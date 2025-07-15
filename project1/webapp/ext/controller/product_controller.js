@@ -8,8 +8,5 @@ sap.ui.define([
             MessageToast.show("Custom handler invoked.");
         },
 
-	Test: function(oEvent) {
-        MessageToast.show("Custom handler invoked.");
-        }
     };
 });
