@@ -86,7 +86,7 @@
                 <Annotation Term="UI.IsImageURL" Bool="true"/>
             </Annotations>
             <Annotations Target="SAP__self.ZC_ITEMSType/ProductName">
-                <Annotation Term="Common.Label" String="ProductName"/>
+                <Annotation Term="Common.Label" String="{@i18n>productname}"/>
                 <Annotation Term="Common.FilterDefaultValue" String="Banane Wasser"/>
             </Annotations>
         </Schema>
